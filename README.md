@@ -1,10 +1,10 @@
 Expensify
----------
+=========
 It is an app for tracking your expenses. It makes you realize where you are spending more
 and helps to save money. 
 
 Features
-========
+---------
 
 + Users can register and login
 + Users can update profile information
@@ -15,6 +15,6 @@ Features
 
 
 Current Status
-==============
+--------------
 Still under developing state
 
